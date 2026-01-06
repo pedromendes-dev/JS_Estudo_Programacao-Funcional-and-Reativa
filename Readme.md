@@ -34,9 +34,9 @@ Programação Reativa é boa para:
 ✅ Sistemas que precisam reagir rápido a mudanças
 ✅ Comunicação entre componentes
 
-🔧 FERRAMENTAS POPULARES
+### 🔧 FERRAMENTAS POPULARES
 
-Programação Funcional:
+- Programação Funcional:
 
 JavaScript: Lodash, Ramda, Immutable.js
 
@@ -49,7 +49,7 @@ Elixir, Erlang
 React (componentes funcionais + hooks)
 
 
-Programação Reativa:
+- Programação Reativa:
 
 RxJS (JavaScript)
 
