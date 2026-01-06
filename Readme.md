@@ -1,4 +1,4 @@
-📘 Guia Rápido: Programação Funcional vs Reativa
+## 📘 Guia Rápido: Programação Funcional vs Reativa
 
 Este repositório traz exemplos curtos para comparar abordagens funcionais e reativas em JavaScript. Cada pasta tem um README com conceitos essenciais e códigos comentados.
 
